@@ -42,3 +42,5 @@
    - 지역별 의료시설 부족 지역 확인.
    - 특정 전문의(예: 내과, 소아과) 활동 지역 분석.
    - 병원 개설 연도의 변화 추이 파악.
+
+['병원 및 의원 데이터 분석' pandas 활용 데이터 분석, matplotlib 활용, 데이터 시각화 및 결론 도출](https://github.com/aarin9809/bigdata/blob/main/hospital_data_analysis_final.ipynb)
